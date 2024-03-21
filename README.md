@@ -30,7 +30,12 @@ tailwind is my most go to css framework or even scss but instead of installing w
 -Added a better UI component for toggling themes
 - some of the Color given weren't the same as the UI given
 
-  ** Project Images**
+**Project Images**
+
+![image](https://github.com/titobzzz/Simple-calculator/assets/105544565/24563460-927b-4b15-b6dd-e6a29298629c)
+
+![image](https://github.com/titobzzz/Simple-calculator/assets/105544565/d8cb3798-bd0e-4e8e-a409-b03c1d981143)
+
   
   ![image](https://github.com/titobzzz/Simple-calculator/assets/105544565/6a5018ae-69cc-4019-a455-7e98b81f9d59)
 
