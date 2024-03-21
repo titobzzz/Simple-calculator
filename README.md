@@ -1,6 +1,6 @@
 ##The simple calculator
 
-The simple calculator was built using HTML, css, vanila javascript and webpack
+The simple calculator was built using HTML, css, vanila javascript and webpack for future enhancement if needed.
 
 #What the simple calculator does 
 -Arithemtic calculations 
