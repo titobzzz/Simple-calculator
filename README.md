@@ -12,7 +12,7 @@ If A and B are random number then the opration
 - A % B  will give the reminder(modulus) of B divided by A
 - A ± or B ± will give the opposite sign of B or A 
 - AC will clear the Screen of the calculator
- 
+
 #Other feature
 Algorithm to add commas rightly even when decimals are included 
 
@@ -29,4 +29,11 @@ tailwind is my most go to css framework or even scss but instead of installing w
 - Remove the ± button because It gave me  alot of issues before i even knew what it was meant for
 -Added a better UI component for toggling themes
 - some of the Color given weren't the same as the UI given
+
+  #Images
+  ![image](https://github.com/titobzzz/Simple-calculator/assets/105544565/6a5018ae-69cc-4019-a455-7e98b81f9d59)
+
+  ![image](https://github.com/titobzzz/Simple-calculator/assets/105544565/28fbe95b-ad9b-400d-a58d-f15f101e9cac)
+
+
 
